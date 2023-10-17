@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MB1419.PrjPcb]
+   Generated File[MB1419.TXT]
+   Generated File[MB1419.LDP]
+   Generated File[MB1419.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:26:34 On 2023/10/17
