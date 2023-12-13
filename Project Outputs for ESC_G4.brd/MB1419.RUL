@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Temp\MB1419_B01\MB1419.PcbDoc
+DRC Rules Export File for PCB: D:\For study\新建文件夹\STM32_G4_FOC\MB1419.PcbDoc
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
